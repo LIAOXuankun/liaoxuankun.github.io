@@ -14,7 +14,8 @@ Research Interests
 * Distributed/Parallel graph computation
 * Builtding graph computation engine
 * Algorithms for streaming graph computation
- I am willing to cooperate with companies (e.g., Huawei, Tencent) and tackle issues in real industrial scenarios, please feel free to drop me an email if you are interested!
+
+I am willing to cooperate with companies (e.g., Huawei, Tencent) and tackle issues in real industrial scenarios, please feel free to drop me an email if you are interested!
 
 Contact
 ======
