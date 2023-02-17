@@ -35,14 +35,14 @@ Honors & Awards
 News
 ------
 
-[[Nov. 2022]] Our work titled as "Distributed (\alpha, \beta)-Core Decomposition over Bipartite graphs" was accepted by **ICDE 2023**.
+**[Nov. 2022]** Our work titled as "Distributed (\alpha, \beta)-Core Decomposition over Bipartite graphs" was accepted by **ICDE 2023**.
 
-[[Sep. 2022]] I gave my first talk online in VLDB 2022.
+**[Sep. 2022]** I gave my first talk online in VLDB 2022.
 
-[[Mar. 2022]] Our work titled as "Distributed D-core decomposition over large directed graphs" was accepted by **VLDB 2022**.
+**[Mar. 2022]** Our work titled as "Distributed D-core decomposition over large directed graphs" was accepted by **VLDB 2022**.
 
-[[Sep. 2020]] I started my PhD juornal at Hong Kong Baptist University.
+**[Sep. 2020]** I started my PhD juornal at Hong Kong Baptist University.
 
-[[Jun. 2020]] I graduated from Huazhong University of Science and Technology and obtained my bachelor's degree in Communication Engineering.
+**[Jun. 2020]** I graduated from Huazhong University of Science and Technology and obtained my bachelor's degree in Communication Engineering.
 
 
