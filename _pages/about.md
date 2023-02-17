@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "About mE"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi! I
+I'm currently a year 3 Phd student in the [Database Group](https://www.comp.hkbu.edu.hk/~db/index.html) of the [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/), Hong Kong Baptist University (HKBU) supervised by [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). I obtained my Bachelor's degree from the School of Electronic Information and Communications [(EIC)](http://ei.hust.edu.cn/English/Home.htm), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/) in 2020.
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
