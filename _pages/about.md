@@ -23,11 +23,25 @@ Email: xkliao@comp.hkbu.edu.hk
 Publications [[DBLP]](https://dblp.org/pid/313/9191.html) [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=s9Kv6Q4AAAAJ)
 ------
 1. **Xuankun Liao\***, Qing Liu\*, Jiaxin Jiang, Xin Huang, Jianliang Xu, and Byron Choi, “Distributed
-d-core decomposition over large directed graphs,” Proceedings of the VLDB Endowment (**PVLDB**), vol. 15, no. 8, pp. 1546–1558, 2022. (*equal contribution)
+D-core decomposition over large directed graphs,” Proceedings of the VLDB Endowment (**PVLDB**), vol. 15, no. 8, pp. 1546–1558, 2022. (*equal contribution)
 2. Qing Liu, **Xuankun Liao**, Xin Huang, Jianliang Xu, Yunjun Gao, “Distributed
 (\alpha, \beta)-Core Decomposition over Bipartite graphs,” (**ICDE2023**)
 
 Honors & Awards
 ------
 1. Outstanding Graduate, HUST, 2020
+
+News
+------
+
+[[Nov. 2022]] Our work titled as "Distributed (\alpha, \beta)-Core Decomposition over Bipartite graphs" was accepted by **ICDE 2023**.
+
+[[Sep. 2022]] I gave my first talk online in VLDB 2022.
+
+[[Mar. 2022]] Our work titled as "Distributed D-core decomposition over large directed graphs" was accepted by **VLDB 2022**.
+
+[[Sep. 2020]] I started my PhD juornal at Hong Kong Baptist University.
+
+[[Jun. 2020]] I graduated from Huazhong University of Science and Technology and obtained my bachelor's degree in Communication Engineering.
+
 
