@@ -31,6 +31,9 @@ D-core decomposition over large directed graphs,” Proceedings of the VLDB Endo
 Honors & Awards
 ------
 1. Outstanding Graduate, HUST, 2020
+2. Excellent Teaching Assistant Performance Award, 2021, 2022
+3. Research Performance Award, HKBU COMP, 2022
+
 
 News
 ------
