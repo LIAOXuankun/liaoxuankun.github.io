@@ -49,5 +49,5 @@ News
 **[Jun. 2020]** I graduated from Huazhong University of Science and Technology and obtained my bachelor's degree in Communication Engineering.
 
 
-<a href="https://clustrmaps.com/site/1bt5l"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=SZ7KCV_EZrRpUSD-wTuR_FsZNzgbVifHFdHjh1Xr8Ac&cl=ffffff" /></a>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=SZ7KCV_EZrRpUSD-wTuR_FsZNzgbVifHFdHjh1Xr8Ac'></script>
 
