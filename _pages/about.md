@@ -37,6 +37,7 @@ Honors & Awards
 
 News
 ------
+**[Feb. 2023]** I finished my candidature defense.
 
 **[Nov. 2022]** Our work titled as "Distributed (\alpha, \beta)-Core Decomposition over Bipartite graphs" was accepted by **ICDE 2023**.
 
