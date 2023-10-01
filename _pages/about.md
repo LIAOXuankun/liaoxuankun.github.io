@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a third year Phd student in the [Database Group](https://www.comp.hkbu.edu.hk/~db/index.html) of the [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/), Hong Kong Baptist University (HKBU) supervised by [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). I obtained my Bachelor's degree from the School of Electronic Information and Communications [(EIC)](http://ei.hust.edu.cn/English/Home.htm), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/) in 2020.
+I'm currently a third-year Phd student in the [Database Group](https://www.comp.hkbu.edu.hk/~db/index.html) of the [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/), Hong Kong Baptist University (HKBU) supervised by [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). I obtained my Bachelor's degree from the School of Electronic Information and Communications [(EIC)](http://ei.hust.edu.cn/English/Home.htm), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/) in 2020.
 
 Research Interests
 ======
@@ -15,7 +15,7 @@ Research Interests
 * Building graph computation engine
 * Algorithms for streaming graph computation
 
-I am willing to cooperate with companies (e.g., Huawei, Tencent) and tackle issues in real industrial scenarios, please feel free to drop me an email if you are interested!
+I am willing to cooperate with companies (e.g., Huawei, Tencent) and tackle issues in real industrial scenarios, please feel free to email me if you are interested!
 
 Contact
 ======
@@ -25,13 +25,13 @@ Publications [[DBLP]](https://dblp.org/pid/313/9191.html) [[Google Scholar]](htt
 ------
 1. **Xuankun Liao\***, Qing Liu\*, Jiaxin Jiang, Xin Huang, Jianliang Xu, and Byron Choi, “Distributed
 D-core decomposition over large directed graphs,” Proceedings of the VLDB Endowment (**PVLDB**), vol. 15, no. 8, pp. 1546–1558, 2022. (*equal contribution)
-2. Qing Liu, **Xuankun Liao**, Xin Huang, Jianliang Xu, Yunjun Gao, “Distributed
-(\alpha, \beta)-Core Decomposition over Bipartite graphs,” (**ICDE2023**)
+2. Qing Liu, **Xuankun Liao**, Xin Huang, Jianliang Xu, Yunjun Gao, Distributed (α, β)-Core Decomposition over Bipartite Graphs, 2023 IEEE 39th International Conference on Data Engineering (**ICDE**), IEEE, 2023: 909-921.
+
 
 Honors & Awards
 ------
 1. Outstanding Graduate, HUST, 2020
-2. Excellent Teaching Assistant Performance Award, HKBU COMP, 2021, 2022
+2. Excellent Teaching Assistant Performance Award, HKBU COMP, 2021, 2022, 2023
 3. Research Performance Award, HKBU COMP, 2022
 
 
@@ -47,7 +47,7 @@ News
 
 **[Mar. 2022]** Our work titled "Distributed D-core decomposition over large directed graphs" was accepted by **VLDB 2022**.
 
-**[Sep. 2020]** I started my PhD juornal at Hong Kong Baptist University.
+**[Sep. 2020]** I started my PhD journey at Hong Kong Baptist University.
 
 **[Jun. 2020]** I graduated from Huazhong University of Science and Technology and obtained my bachelor's degree in Communication Engineering.
 
