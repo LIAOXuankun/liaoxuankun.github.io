@@ -21,7 +21,7 @@ Contact
 ======
 Email: xkliao@comp.hkbu.edu.hk
 
-Publications [[DBLP]](https://dblp.org/pid/313/9191.html) [[Google Scholar]](https://scholar.google.com.hk/citations?user=3QiprTwAAAAJ&hl=zh-CN&inst=10806615469772578445)
+Publications [[DBLP]](https://dblp.org/pid/313/9191.html) [[Google Scholar]](https://scholar.google.com/citations?user=3QiprTwAAAAJ&hl=en&inst=10806615469772578445)
 ------
 1. **Xuankun Liao\***, Qing Liu\*, Jiaxin Jiang, Xin Huang, Jianliang Xu, and Byron Choi, “Distributed
 D-core decomposition over large directed graphs,” Proceedings of the VLDB Endowment (**PVLDB**), vol. 15, no. 8, pp. 1546–1558, 2022. (*equal contribution)
