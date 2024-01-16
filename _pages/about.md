@@ -24,6 +24,7 @@ Publications [[DBLP]](https://dblp.org/pid/313/9191.html) [[Google Scholar]]([ht
 1. **Xuankun Liao\***, Qing Liu\*, Jiaxin Jiang, Xin Huang, Jianliang Xu, and Byron Choi, “Distributed
 D-core decomposition over large directed graphs,” Proceedings of the VLDB Endowment (**PVLDB**), vol. 15, no. 8, pp. 1546–1558, 2022. (*equal contribution)
 2. Qing Liu, **Xuankun Liao**, Xin Huang, Jianliang Xu, Yunjun Gao, Distributed (α, β)-Core Decomposition over Bipartite Graphs, 2023 IEEE 39th International Conference on Data Engineering (**ICDE**), IEEE, 2023: 909-921.
+3. **Xuankun Liao**, Qing Liu, Xin Huang, and Jianliang Xu, “Truss-based Community Search over Streaming Directed Graphs,” Proceedings of the VLDB Endowment (**PVLDB**), 2024.
 
 
 Honors & Awards
@@ -35,6 +36,8 @@ Honors & Awards
 
 News
 ------
+**[Jan. 2024]** Our work titled "Truss-based Community Search over Streaming Directed Graphs" was accepted by **VLDB 2024**.
+
 **[Aug. 2023]** I started my NUS, Soc internship supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 
 **[Feb. 2023]** I finished my candidature defense.
