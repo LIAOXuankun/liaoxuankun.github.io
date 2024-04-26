@@ -7,13 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a fourth-year Phd student in the [Database Group](https://www.comp.hkbu.edu.hk/~db/index.html) of the [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/), Hong Kong Baptist University (HKBU) supervised by [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). I obtained my Bachelor's degree from the School of Electronic Information and Communications [(EIC)](http://ei.hust.edu.cn/English/Home.htm), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/) in 2020.
+I'm currently a fourth-year Phd candidate in the [Database Group](https://www.comp.hkbu.edu.hk/~db/index.html) of the [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/), Hong Kong Baptist University (HKBU) supervised by [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). I obtained my Bachelor's degree from the School of Electronic Information and Communications [(EIC)](http://ei.hust.edu.cn/English/Home.htm), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/) in 2020.
 
 Research Interests
 ======
-* Distributed/Parallel graph computation
-* Building graph computation engine
-* Algorithms for streaming graph computation
+* Distributed/parallel graph computation
+* Streaming graph computation
 
 Contact
 ======
@@ -38,7 +37,7 @@ News
 ------
 **[Jan. 2024]** Our work titled "Truss-based Community Search over Streaming Directed Graphs" was accepted by **VLDB 2024**.
 
-**[Aug. 2023]** I started my NUS, Soc internship supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+**[Aug. 2023]** I started my internship at NUS, working under the supervision of [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 
 **[Feb. 2023]** I finished my candidature defense.
 
