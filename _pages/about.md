@@ -18,7 +18,7 @@ Contact
 ======
 Email: xkliao@comp.hkbu.edu.hk
 
-Publications [[DBLP]](https://dblp.org/pid/313/9191.html) [[Google Scholar]]([https://scholar.google.com/citations?user=3QiprTwAAAAJ&hl=en&inst=10806615469772578445](https://scholar.google.com.hk/citations?hl=zh-CN&user=3QiprTwAAAAJ&inst=10806615469772578445))
+Publications [[DBLP]](https://dblp.org/pid/313/9191.html) [[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=3QiprTwAAAAJ&inst=10806615469772578445)
 ------
 1. **Xuankun Liao**, Qing Liu, Xin Huang, and Jianliang Xu, “Truss-based Community Search over Streaming Directed Graphs,” Proceedings of the VLDB Endowment (**PVLDB**), 2024.
 2. Qing Liu, **Xuankun Liao**, Xin Huang, Jianliang Xu, Yunjun Gao, Distributed (α, β)-Core Decomposition over Bipartite Graphs, 2023 IEEE 39th International Conference on Data Engineering (**ICDE**), IEEE, 2023: 909-921.
