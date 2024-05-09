@@ -20,7 +20,7 @@ Email: xkliao@comp.hkbu.edu.hk
 
 Download area
 ======
-[CV](https://LIAOXuankun.github.io/cv)
+[CV](https://LIAOXuankun.github.io/cv_xkliao.pdf)
 
 Publications [[DBLP]](https://dblp.org/pid/313/9191.html) [[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=3QiprTwAAAAJ&inst=10806615469772578445)
 ------
