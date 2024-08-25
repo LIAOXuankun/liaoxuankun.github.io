@@ -35,6 +35,8 @@ Honors & Awards
 
 News
 ------
+**[Aug. 2024]** I passed my oral defense! You may now call me Dr. Liao!
+
 **[Jan. 2024]** Our work titled "Truss-based Community Search over Streaming Directed Graphs" was accepted by **VLDB 2024**.
 
 **[Aug. 2023]** I started my internship at NUS, working under the supervision of [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
