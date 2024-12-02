@@ -35,6 +35,8 @@ Honors & Awards
 
 News
 ------
+**[Nov. 2024]** Our work titled "Accelerating D-core Maintenance over Dynamic Directed Graphs" was accepted by **ICDE 2025**. 
+
 **[Aug. 2024]** I passed my oral defense! You may now call me Dr. Liao!
 
 **[Jan. 2024]** Our work titled "Truss-based Community Search over Streaming Directed Graphs" was accepted by **VLDB 2024**.
