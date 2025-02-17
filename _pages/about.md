@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a fourth-year Phd candidate in the [Database Group](https://www.comp.hkbu.edu.hk/~db/index.html) of the [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/), Hong Kong Baptist University (HKBU) supervised by [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). I obtained my Bachelor's degree from the School of Electronic Information and Communications [(EIC)](http://ei.hust.edu.cn/English/Home.htm), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/) in 2020.
+I am currently a senior algorithm engineer at [TongYi](https://tongyi.aliyun.com/welcome). I obtained my Ph.D. degree from the [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/), Hong Kong Baptist University (HKBU), supervised by [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). I was a member of the [Database Group](https://www.comp.hkbu.edu.hk/~db/). Before that, I obtained my Bachelor's degree from the School of Electronic Information and Communications [(EIC)](http://ei.hust.edu.cn/English/Home.htm), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/) in 2020.
 
 Research Interests
 ======
-* Distributed/parallel graph computation
-* Streaming graph computation
+* LLMs
+* Graph computation
 
 Contact
 ======
@@ -36,6 +36,7 @@ Honors & Awards
 
 News
 ------
+
 **[Nov. 2024]** Our work titled "Accelerating D-core Maintenance over Dynamic Directed Graphs" was accepted by **ICDE 2025**. 
 
 **[Aug. 2024]** I passed my oral defense! You may now call me Dr. Liao!
